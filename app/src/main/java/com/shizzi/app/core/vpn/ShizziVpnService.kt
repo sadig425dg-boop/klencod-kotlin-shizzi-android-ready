@@ -1,4 +1,5 @@
 package com.shizzi.app.core.vpn
+import com.shizzi.app.MainActivity
 
 import android.app.Notification
 import android.app.PendingIntent

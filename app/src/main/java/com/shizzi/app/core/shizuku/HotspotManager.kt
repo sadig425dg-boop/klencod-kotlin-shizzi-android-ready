@@ -1,4 +1,5 @@
 package com.shizzi.app.core.shizuku
+import java.net.NetworkInterface
 
 import android.content.Context
 import android.net.NetworkInterface

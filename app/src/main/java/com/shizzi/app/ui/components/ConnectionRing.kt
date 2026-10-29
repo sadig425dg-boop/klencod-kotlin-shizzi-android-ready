@@ -1,4 +1,5 @@
 package com.shizzi.app.ui.components
+import androidx.compose.runtime.getValue
 
 import androidx.compose.animation.core.LinearEasing
 import androidx.compose.animation.core.RepeatMode

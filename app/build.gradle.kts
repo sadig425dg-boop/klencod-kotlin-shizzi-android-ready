@@ -100,12 +100,16 @@ dependencies {
     implementation("dev.rikka.shizuku:provider:13.1.5")
 
     // Xray-core (Go, compiled via gomobile) Android bindings.
-// implementation("com.github.2dust:AndroidLibXrayLite")
-// implementation("com.github.2dust:v2rayNG")
+implementation("com.github.2dust:AndroidLibXrayLite:main-SNAPSHOT")
+implementation("com.github.2dust:AndroidLibXrayLite:main-SNAPSHOT")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
+}
+
+dependencies {
+    implementation("com.google.android.material:material:1.11.0")
 }
 
 dependencies {
