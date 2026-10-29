@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Shizzi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/shizzi_background</item>
+        <item name="android:navigationBarColor">@color/shizzi_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+        <item name="android:windowBackground">@color/shizzi_background</item>
+        <item name="colorPrimary">@color/shizzi_pink</item>
+        <item name="colorSecondary">@color/shizzi_violet</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="29">false</item>
+    </style>
+</resources>

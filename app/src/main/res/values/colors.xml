@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shizzi_background">#0D0E12</color>
+    <color name="shizzi_surface">#16171D</color>
+    <color name="shizzi_surface_elevated">#1D1E26</color>
+    <color name="shizzi_pink">#E040FB</color>
+    <color name="shizzi_violet">#7C4DFF</color>
+    <color name="shizzi_pink_dark">#9C27B0</color>
+    <color name="shizzi_violet_dark">#512DA8</color>
+    <color name="shizzi_text_primary">#F5F3FA</color>
+    <color name="shizzi_text_secondary">#9A99A8</color>
+    <color name="shizzi_success">#34D399</color>
+    <color name="shizzi_danger">#FF5370</color>
+    <color name="transparent">#00000000</color>
+</resources>

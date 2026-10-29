@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="shizzi_settings.preferences_pb" />
+        <exclude domain="database" path="shizzi.db" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="sharedpref" path="shizzi_settings.preferences_pb" />
+        <exclude domain="database" path="shizzi.db" />
+    </device-transfer>
+</data-extraction-rules>

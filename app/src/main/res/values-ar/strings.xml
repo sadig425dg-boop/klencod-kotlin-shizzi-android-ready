@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shizzi</string>
+    <string name="vpn_start">تشغيل VPN</string>
+    <string name="vpn_stop">إيقاف VPN</string>
+    <string name="hotspot_start">تشغيل مشاركة الشبكة</string>
+    <string name="hotspot_stop">إيقاف مشاركة الشبكة</string>
+    <string name="notification_channel_vpn">نفق Shizzi النشط</string>
+    <string name="notification_title">Shizzi متصل</string>
+    <string name="notification_text">يتم توجيه حركة المرور عبر نفق V2Ray / Xray</string>
+    <string name="shizuku_not_installed">تطبيق Shizuku غير مثبت على الجهاز</string>
+    <string name="shizuku_permission_denied">تم رفض صلاحية Shizuku</string>
+    <string name="import_success">تم استيراد السيرفر بنجاح</string>
+    <string name="import_failure">فشل استيراد الكود المدخل</string>
+</resources>
